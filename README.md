@@ -12,9 +12,9 @@
 
 ## 개요
 <br/>
-<a href="#here1">1.Pointer Type & Struct Type</a>
+<a href="#here1">1.Process</a>
 <br/>
-<a href="#here2">2.STACK</a>
+<a href="#here2">2.Thread</a>
 <br/>
 <br/>
 <a id="here1" />
