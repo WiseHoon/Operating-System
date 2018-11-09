@@ -11,13 +11,7 @@
 <br/>
 
 ## 개요
-<br/>
-<a href="#here1">1.Process</a>
-<br/>
-<a href="#here2">2.Thread</a>
-<br/>
-<br/>
-<a id="here1" />
+
 
  1 Process
  <br/>
@@ -25,13 +19,12 @@
 
   <br/>
   <br/>
-<a id="here1" />
+
 2 Thread
 <br/>
  > thread란?
 
 
-<a id="here3" />
 <br/>
 <br/>
 
